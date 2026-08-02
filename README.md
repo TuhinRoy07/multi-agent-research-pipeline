@@ -161,4 +161,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-Built by **Hey** — BCA student, JIS University · Data Analytics & AI enthusiast
+Built by **TUHIN** — BCA student, JIS University · Data Analytics & AI enthusiast
